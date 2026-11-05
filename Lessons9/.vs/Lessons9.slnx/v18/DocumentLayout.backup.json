@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lessons\\Lessons9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\dto\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\dto\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CollegeDb/True/SqlTable/dbo.DisciplineStudent.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CollegeDb/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CollegeDb/True/SqlTable/dbo.Lessons.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CollegeDb/True/SqlTable/dbo.Disciplines.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CollegeDb/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BE0DF4-FCB0-4934-A021-108A51F05BF0}|LessonsTests\\LessonsTests.csproj|d:\\lessons\\lessons9\\lessonstests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BE0DF4-FCB0-4934-A021-108A51F05BF0}|LessonsTests\\LessonsTests.csproj|solutionrelative:lessonstests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\dto\\studentlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\dto\\studentlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\dto\\studentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\dto\\studentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BE0DF4-FCB0-4934-A021-108A51F05BF0}|LessonsTests\\LessonsTests.csproj|d:\\lessons\\lessons9\\lessonstests\\studentsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BE0DF4-FCB0-4934-A021-108A51F05BF0}|LessonsTests\\LessonsTests.csproj|solutionrelative:lessonstests\\studentsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\data\\applicationidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\data\\applicationidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\exceptions\\studenthasdisciplinesexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\exceptions\\studenthasdisciplinesexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\dto\\disciplineresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\dto\\disciplineresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\models\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\models\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\migrations\\20261014060225_addentityrelationships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\migrations\\20261014060225_addentityrelationships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|d:\\lessons\\lessons9\\lessons9\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7561E239-E341-4AF6-F41B-77CA921A68B3}|Lessons9\\Lessons9.csproj|solutionrelative:lessons9\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Lessons9\\DTO\\LoginDto.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "Lessons9\\DTO\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T11:04:08.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\Program.cs",
+              "RelativeDocumentMoniker": "Lessons9\\Program.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\Program.cs",
+              "RelativeToolTip": "Lessons9\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:36:17.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Lessons9\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Lessons9\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T09:54:38.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CollegeDb/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CollegeDb/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-20T10:25:24.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\appsettings.json",
+              "RelativeDocumentMoniker": "Lessons9\\appsettings.json",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\appsettings.json",
+              "RelativeToolTip": "Lessons9\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-13T08:21:18.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\LessonsTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LessonsTests\\UnitTest1.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\LessonsTests\\UnitTest1.cs",
+              "RelativeToolTip": "LessonsTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T06:00:07.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentListDto.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\DTO\\StudentListDto.cs",
+              "RelativeDocumentMoniker": "Lessons9\\DTO\\StudentListDto.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\DTO\\StudentListDto.cs",
+              "RelativeToolTip": "Lessons9\\DTO\\StudentListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T10:05:31.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateStudentDto.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\DTO\\CreateStudentDto.cs",
+              "RelativeDocumentMoniker": "Lessons9\\DTO\\CreateStudentDto.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\DTO\\CreateStudentDto.cs",
+              "RelativeToolTip": "Lessons9\\DTO\\CreateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T05:51:16.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentApiController.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\Controllers\\StudentApiController.cs",
+              "RelativeDocumentMoniker": "Lessons9\\Controllers\\StudentApiController.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\Controllers\\StudentApiController.cs",
+              "RelativeToolTip": "Lessons9\\Controllers\\StudentApiController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:58:08.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Lessons9\\Services\\StudentService.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\Services\\StudentService.cs",
+              "RelativeToolTip": "Lessons9\\Services\\StudentService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T07:32:18.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Lessons9\\Models\\Student.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\Models\\Student.cs",
+              "RelativeToolTip": "Lessons9\\Models\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:45:44.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Lessons9\\Interfaces\\IStudentService.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "Lessons9\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:44:49.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentResponseDto.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\DTO\\StudentResponseDto.cs",
+              "RelativeDocumentMoniker": "Lessons9\\DTO\\StudentResponseDto.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\DTO\\StudentResponseDto.cs",
+              "RelativeToolTip": "Lessons9\\DTO\\StudentResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T07:16:02.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentsServiceTests.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\LessonsTests\\StudentsServiceTests.cs",
+              "RelativeDocumentMoniker": "LessonsTests\\StudentsServiceTests.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\LessonsTests\\StudentsServiceTests.cs",
+              "RelativeToolTip": "LessonsTests\\StudentsServiceTests.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T06:04:23.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.DisciplineStudent.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CollegeDb/True/SqlTable/dbo.DisciplineStudent.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CollegeDb/True/SqlTable/dbo.DisciplineStudent.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-22T06:12:59.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\DTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Lessons9\\DTO\\RegisterDto.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\DTO\\RegisterDto.cs",
+              "RelativeToolTip": "Lessons9\\DTO\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T09:47:24.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationIdentityDbContext.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\Data\\ApplicationIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "Lessons9\\Data\\ApplicationIdentityDbContext.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\Data\\ApplicationIdentityDbContext.cs",
+              "RelativeToolTip": "Lessons9\\Data\\ApplicationIdentityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T08:32:02.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Lessons9\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Lessons9\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-07T06:35:50.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentHasDisciplinesException.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\Exceptions\\StudentHasDisciplinesException.cs",
+              "RelativeDocumentMoniker": "Lessons9\\Exceptions\\StudentHasDisciplinesException.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\Exceptions\\StudentHasDisciplinesException.cs",
+              "RelativeToolTip": "Lessons9\\Exceptions\\StudentHasDisciplinesException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T09:13:47.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Disciplines.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CollegeDb/True/SqlTable/dbo.Disciplines.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CollegeDb/True/SqlTable/dbo.Disciplines.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-15T09:43:26.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Lessons.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CollegeDb/True/SqlTable/dbo.Lessons.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CollegeDb/True/SqlTable/dbo.Lessons.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-15T09:43:38.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Lessons9\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Lessons9\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:12:47.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Discipline.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\Models\\Discipline.cs",
+              "RelativeDocumentMoniker": "Lessons9\\Models\\Discipline.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\Models\\Discipline.cs",
+              "RelativeToolTip": "Lessons9\\Models\\Discipline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T05:40:22.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DisciplineResponseDto.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\DTO\\DisciplineResponseDto.cs",
+              "RelativeDocumentMoniker": "Lessons9\\DTO\\DisciplineResponseDto.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\DTO\\DisciplineResponseDto.cs",
+              "RelativeToolTip": "Lessons9\\DTO\\DisciplineResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T07:17:28.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\Models\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "Lessons9\\Models\\StudentProfile.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\Models\\StudentProfile.cs",
+              "RelativeToolTip": "Lessons9\\Models\\StudentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T05:51:50.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20261014060225_AddEntityRelationships.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\Migrations\\20261014060225_AddEntityRelationships.cs",
+              "RelativeDocumentMoniker": "Lessons9\\Migrations\\20261014060225_AddEntityRelationships.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\Migrations\\20261014060225_AddEntityRelationships.cs",
+              "RelativeToolTip": "Lessons9\\Migrations\\20261014060225_AddEntityRelationships.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwCYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:02:26.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "D:\\lessons\\Lessons9\\Lessons9\\Models\\Lesson.cs",
+              "RelativeDocumentMoniker": "Lessons9\\Models\\Lesson.cs",
+              "ToolTip": "D:\\lessons\\Lessons9\\Lessons9\\Models\\Lesson.cs",
+              "RelativeToolTip": "Lessons9\\Models\\Lesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T05:39:56.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Students.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CollegeDb/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CollegeDb/True/SqlTable/dbo.Students.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-13T10:23:46.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
