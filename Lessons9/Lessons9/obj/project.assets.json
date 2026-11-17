@@ -854,6 +854,22 @@
           }
         }
       },
+      "Swashbuckle.AspNetCore.SwaggerUI/11.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "System.ClientModel/1.5.1": {
         "type": "package",
         "dependencies": {
@@ -2831,6 +2847,24 @@
         "packageIcon.png"
       ]
     },
+    "Swashbuckle.AspNetCore.SwaggerUI/11.0.1": {
+      "sha512": "Mu0j015xm7W/Axz6J6bXrh+/qEiyUGQUIGrWWvivv732yO1LtnmyV3zRwWB1dOFvlrU/CWUZqIYe1+hIcsCacg==",
+      "type": "package",
+      "path": "swashbuckle.aspnetcore.swaggerui/11.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/net10.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/net10.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "lib/net11.0/Swashbuckle.AspNetCore.SwaggerUI.dll",
+        "lib/net11.0/Swashbuckle.AspNetCore.SwaggerUI.pdb",
+        "lib/net11.0/Swashbuckle.AspNetCore.SwaggerUI.xml",
+        "package-readme.md",
+        "swashbuckle.aspnetcore.swaggerui.11.0.1.nupkg.sha512",
+        "swashbuckle.aspnetcore.swaggerui.nuspec"
+      ]
+    },
     "System.ClientModel/1.5.1": {
       "sha512": "k2jKSO0X45IqhVOT9iQB4xralNN9foRQsRvXBTyRpAVxyzCJlG895T9qYrQWbcJ6OQXxOouJQ37x5nZH5XKK+A==",
       "type": "package",
@@ -3194,27 +3228,28 @@
       "Microsoft.AspNetCore.OpenApi >= 10.0.12",
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.9",
       "Microsoft.EntityFrameworkCore.Tools >= 10.0.9",
+      "Swashbuckle.AspNetCore.SwaggerUI >= 11.0.1",
       "System.Security.Cryptography.Pkcs >= 10.0.13"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\anuto\\.nuget\\packages\\": {},
+    "D:\\Programs\\Microsoft Visual Studio\\Новая папка\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\lessons\\Lessons9\\Lessons9\\Lessons9.csproj",
+      "projectUniqueName": "F:\\lessons\\Lessons9\\Lessons9\\Lessons9.csproj",
       "projectName": "Lessons9",
-      "projectPath": "D:\\lessons\\Lessons9\\Lessons9\\Lessons9.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\lessons\\Lessons9\\Lessons9\\obj\\",
+      "projectPath": "F:\\lessons\\Lessons9\\Lessons9\\Lessons9.csproj",
+      "packagesPath": "C:\\Users\\anuto\\.nuget\\packages\\",
+      "outputPath": "F:\\lessons\\Lessons9\\Lessons9\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\Programs\\Microsoft Visual Studio\\Новая папка\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\anuto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3223,7 +3258,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3267,6 +3301,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[10.0.9, )"
+          },
+          "Swashbuckle.AspNetCore.SwaggerUI": {
+            "target": "Package",
+            "version": "[11.0.1, )"
           },
           "System.Security.Cryptography.Pkcs": {
             "target": "Package",

@@ -11,16 +11,16 @@ var connectionString = builder.Configuration
     .GetConnectionString("DefaultConnection")
     ?? throw new InvalidOperationException(
         "Строка подключения не найдена");
-// тут
+
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("ReactClient", policy =>
     {
         policy
-            .WithOrigins("http://localhost:5173") // заменить на наш путь до клиентской части
-            .AllowAnyHeader()
-            .AllowAnyMethod()
-            .AllowCredentials();
+          .SetIsOriginAllowed(_ => true)
+          .AllowAnyHeader()
+          .AllowAnyMethod()
+          .AllowCredentials();
     });
 });
 //
@@ -69,23 +69,40 @@ builder.Services
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
+// Адрес задаём до builder.Build().
+builder.WebHost.UseUrls("http://0.0.0.0:5122");
+
 var app = builder.Build();
 
+// заполнение бд
+if (app.Configuration.GetValue<bool>("InitializeDatabase"))
+{
+    using var scope = app.Services.CreateScope();
 
+    var context = scope.ServiceProvider
+        .GetRequiredService<AppDbContext>();
 
-// Configure the HTTP request pipeline.
+    await DbInitializer.InitializeAsync(context);
+}
+
+app.UseExceptionHandler();
+
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
+
+    app.UseSwaggerUI(options =>
+    {
+        options.SwaggerEndpoint(
+            "/openapi/v1.json",
+            "Lessons9 API v1");
+    });
 }
 
-app.UseCors("ReactClient"); // пишем
+app.UseCors("ReactClient");
 
-// middleware аунтентификации
 app.UseAuthentication();
 app.UseAuthorization();
-
-app.UseExceptionHandler();
 
 app.MapControllers();
 

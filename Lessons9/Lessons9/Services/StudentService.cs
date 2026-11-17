@@ -40,7 +40,9 @@ namespace Lessons9.Services
                 .Select(s => new StudentListDto
                 {
                     Id = s.Id,
-                    Name = s.Name
+                    Name = s.Name,
+                    Age = s.Age,
+                    Group = s.Group
                 })
                 .ToListAsync();
 

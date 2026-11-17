@@ -1,0 +1,65 @@
+* { box-sizing: border-box; }
+body { margin: 0; background: #f3f5f9; color: #17263f; font: 16px/1.55 system-ui, sans-serif; }
+main { max-width: 1120px; margin: auto; padding: 36px 24px 70px; }
+header { padding: 28px 0; max-width: 780px; } h1 { font-size: clamp(30px, 5vw, 44px); line-height: 1.15; }
+header > p:first-child, .meta { color: #526680; font-size: 12px; letter-spacing: .04em; }
+section { margin-top: 35px; } .examples { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+.example { background: white; border: 1px solid #d9e0eb; border-radius: 14px; padding: 22px; }
+h3 { margin: 8px 0 18px; } .demo { padding: 18px; background: #f7f9fc; border-radius: 9px; min-height: 85px; }
+.demo h2 { font-size: 20px; margin: 8px 0; } .demo p { margin: 8px 0; }
+button { cursor: pointer; background: #2658a6; border: 0; color: white; border-radius: 7px; padding: 10px 14px; font: inherit; margin: 4px 8px 4px 0; }
+button:hover { background: #194485; } button:focus-visible, input:focus-visible { outline: 3px solid #e39818; outline-offset: 3px; }
+button:disabled { cursor: not-allowed; opacity: .65; }
+input { max-width: 100%; padding: 9px; border: 1px solid #9cacbf; border-radius: 5px; }
+img { display: block; margin-top: 10px; } .note { color: #526079; font-size: 14px; } .product { border: 1px solid gray; padding: 12px; }
+@media(max-width: 720px) { .examples { grid-template-columns: 1fr; } main { padding: 20px 15px; } }
+
+.router-demo-link { display: inline-block; margin-top: 12px; color: #174b91; font-weight: 700; }
+.router-demo { min-height: 100vh; background: #f3f5f9; }
+.router-header { max-width: none; padding: 24px max(24px, calc((100vw - 1120px) / 2)); background: #fff; border-bottom: 1px solid #d9e0eb; display: flex; align-items: center; justify-content: space-between; gap: 32px; }
+.router-header h1 { margin: 4px 0 0; font-size: 34px; }
+.router-kicker { margin: 0; color: #526680; font-size: 12px; letter-spacing: .04em; }
+.router-nav { display: flex; flex-wrap: wrap; gap: 8px; }
+.router-nav a { padding: 9px 12px; color: #33445d; text-decoration: none; border-radius: 7px; }
+.router-nav a:hover { background: #eaf0f8; }
+.router-nav a.active { color: #fff; background: #2658a6; }
+.router-content { max-width: 1120px; margin: auto; padding: 48px 24px 70px; }
+.router-page { max-width: 760px; margin: 0; padding: 30px; background: #fff; border: 1px solid #d9e0eb; border-radius: 14px; }
+.router-page h2 { margin-top: 0; font-size: 28px; }
+.router-page a { color: #174b91; }
+.router-products { margin: 0; padding: 0; list-style: none; }
+.router-products li { display: flex; justify-content: space-between; gap: 24px; padding: 14px 0; border-bottom: 1px solid #e2e7ef; }
+.router-products li:last-child { border-bottom: 0; }
+.router-breadcrumb { color: #526680; }
+.router-price { font-size: 24px; font-weight: 700; }
+
+.students-page { max-width: 760px; margin: 0; padding: 0; }
+.student-card { margin: 0; padding: 28px; background: #fff; border: 1px solid #d9e0eb; border-radius: 14px; }
+.student-card h2 { margin: 0 0 22px; }
+.students-heading { display: flex; align-items: center; justify-content: space-between; gap: 20px; margin-bottom: 22px; }
+.students-heading h2 { margin: 0; }
+.create-student-link { padding: 10px 14px; color: #fff; background: #2658a6; border-radius: 7px; text-decoration: none; white-space: nowrap; }
+.create-student-link:hover { background: #194485; }
+.create-student-page { max-width: 620px; }
+.back-link { display: inline-block; margin-bottom: 16px; color: #174b91; }
+.student-form { display: grid; gap: 18px; }
+.student-form label { display: grid; gap: 7px; font-weight: 700; }
+.student-form input { width: 100%; padding: 11px 12px; font-weight: 400; }
+.student-form button { justify-self: start; margin: 2px 0 0; }
+.form-message { margin: 0; font-size: 14px; }
+.form-error { color: #a52121; }
+.form-success { color: #19713d; }
+.student-list { margin: 0; padding: 0; list-style: none; }
+.student-list li { display: flex; justify-content: space-between; gap: 20px; padding: 14px 0; border-bottom: 1px solid #e2e7ef; }
+.student-list li:first-child { padding-top: 0; }
+.student-list li:last-child { padding-bottom: 0; border-bottom: 0; }
+.student-list span { color: #526680; text-align: right; }
+
+@media(max-width: 720px) {
+  .router-header { align-items: flex-start; flex-direction: column; gap: 18px; }
+  .router-content { padding: 24px 15px 48px; }
+  .router-page { padding: 22px; }
+  .students-page { grid-template-columns: 1fr; }
+  .student-card { padding: 22px; }
+  .students-heading { align-items: flex-start; flex-direction: column; }
+}

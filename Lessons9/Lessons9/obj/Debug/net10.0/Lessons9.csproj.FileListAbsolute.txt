@@ -358,3 +358,4 @@ F:\lessons\Lessons9\Lessons9\obj\Debug\net10.0\refint\Lessons9.dll
 F:\lessons\Lessons9\Lessons9\obj\Debug\net10.0\Lessons9.pdb
 F:\lessons\Lessons9\Lessons9\obj\Debug\net10.0\Lessons9.genruntimeconfig.cache
 F:\lessons\Lessons9\Lessons9\obj\Debug\net10.0\ref\Lessons9.dll
+F:\lessons\Lessons9\Lessons9\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
