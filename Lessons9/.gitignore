@@ -1,0 +1,26 @@
+﻿# Результаты сборки
+[Bb]in/
+[Oo]bj/
+artifacts/
+
+# Настройки Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Другие редакторы
+.idea/
+.vscode/
+
+# Локальные переменные окружения
+.env
+.env.*
+!.env.example
+
+# Логи
+*.log
+
+# Файлы ОС
+.DS_Store
+Thumbs.db

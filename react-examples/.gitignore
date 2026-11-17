@@ -1,2 +1,19 @@
+# Зависимости
 node_modules/
+
+# Сборка
 dist/
+
+# Локальные настройки
+.env
+.env.*
+!.env.example
+
+# Логи
+*.log
+
+# Файлы редакторов и ОС
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
